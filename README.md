@@ -45,7 +45,3 @@ Atualmente trabalho com **APIs RESTful**, **aplicações web completas**, **sist
 
 - 💼 **LinkedIn:** [Alysson Chrysthian](https://www.linkedin.com/)
 - 💻 **Email:** alyssonchrysthian@gmail.com
-
----
-
-⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
