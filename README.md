@@ -41,20 +41,6 @@ Atualmente trabalho com **APIs RESTful**, **aplicações web completas**, **sist
   
 ---
 
-## 📌 O que eu faço
-- Desenvolvimento de **APIs**
-- Sistemas web completos (Front + Back)
-- Landing pages modernas
-- Modelagem de banco de dados e UML
-- Manutenção e refatoração de código
-
----
-
-## 📈 Em constante evolução
-Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para entregar soluções cada vez melhores 🚀
-
----
-
 ## 🌐 Onde me encontrar
 
 - 💼 **LinkedIn:** [Alysson Chrysthian](https://www.linkedin.com/)
